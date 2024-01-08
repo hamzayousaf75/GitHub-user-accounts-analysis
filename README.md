@@ -1,3 +1,3 @@
 # GitHub-user-accounts-analysis
-Detecting Malicious GitHub Accounts
+## Detecting Malicious GitHub Accounts
 This project involves analyzing a dataset of GitHub user accounts created in a single day to identify potential malicious campaigns. The dataset includes fields like account creation time, account name, user name, location, email, and IP address, with some being mandatory and others optional. I added two new columns to classify accounts as malicious or not and to associate malicious accounts with unique campaign names. Patterns were analyzed to distinguish mass account creation activities, with a focus on distinguishing between benign mass registrations and potential threats. This repository contains the analysis code, the original dataset, and a Powerpoint presentation that contains of the analysis performed from A to Z.
